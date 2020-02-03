@@ -1,14 +1,10 @@
-# beast-softphone-problem
+# Hunter Latest
 
 ## Intention
 
-To recreate the problem reported here:
-
-https://github.com/boostorg/beast/issues/1798
+Project to test latest Hunter
 
 ## Required toolchain
-
-This program requires a c++11 or better toolchain.
 
 Some very good toolchains files available here:
 
