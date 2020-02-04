@@ -3,8 +3,8 @@ cmake_minimum_required(VERSION 3.15)
 include(cmake/HunterGate.cmake)
 
 HunterGate(
-        URL "https://github.com/cpp-pm/hunter/archive/v0.23.245.tar.gz"
-        SHA1 "36e7f44ee4b3f8e25683e9d700f05a27ecb0a848"
+        URL "https://github.com/nxxm/hunter/archive/feature/fix-boost-1.72-cmake-package-configs.zip"
+        SHA1 "3092ec022af99e70bb4b11973ec48f1818e3bc51"
 )
 
 project(LatestHunter)
